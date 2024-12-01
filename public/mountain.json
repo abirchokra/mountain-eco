@@ -1,0 +1,249 @@
+[
+    {
+      "adventureTitle": "Mystic Forest Trek",
+      "image": "https://i.ibb.co.com/D5FYYKD/simon-english-48ner-ZQCHgo-unsplash.jpg",
+      "id": "A101",
+      "categoryName": "Trekking",
+      "shortDescription": "Explore the untouched beauty of Mystic Forest on this exhilarating trek.",
+      "adventureCost": 150,
+      "bookingAvailability": true,
+      "location": "Pacific Northwest, USA",
+      "duration": "3 days, 2 nights",
+      "adventureLevel": "Intermediate",
+      "includedItems": [
+        "Guided trekking tour",
+        "Camping gear",
+        "Daily meals",
+        "First-aid kit"
+      ],
+      "ecoFriendlyFeatures": [
+        "Solar-powered campsites",
+        "Zero plastic usage",
+        "Local organic meals"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+        "Wear comfortable hiking boots",
+        "Carry a reusable water bottle",
+        "Avoid disturbing wildlife"
+      ]
+    },
+    {
+      "adventureTitle": "Coral Reef Snorkeling",
+      "image": "https://i.ibb.co.com/hV4865d/andy-holmes-KPHd-Afsr67-A-unsplash.jpg",
+      "id": "A102",
+      "categoryName": "Snorkeling",
+      "shortDescription": "Dive into the colorful world of coral reefs in this underwater adventure.",
+      "adventureCost": 100,
+      "bookingAvailability": true,
+      "location": "Great Barrier Reef, Australia",
+      "duration": "1 day",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Snorkeling gear",
+        "Expert marine guide",
+        "Safety briefing"
+      ],
+      "ecoFriendlyFeatures": [
+        "Marine-safe sunscreen provided",
+        "Educational session on reef conservation"
+      ],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+        "Avoid touching corals",
+        "Bring your own towel",
+        "Use only provided sunscreen"
+      ]
+    },
+    {
+      "adventureTitle": "Desert Oasis Camp",
+      "image": "https://i.ibb.co.com/XVrFGdD/casey-schackow-me-I9-Aa1wlw0-unsplash.jpg",
+      "id": "A103",
+      "categoryName": "Camping",
+      "shortDescription": "Discover serenity and adventure in a remote desert oasis.",
+      "adventureCost": 200,
+      "bookingAvailability": false,
+      "location": "Sahara Desert, Morocco",
+      "duration": "4 days, 3 nights",
+      "adventureLevel": "Advanced",
+      "includedItems": [
+        "Luxury tents",
+        "Camel rides",
+        "Daily meals and refreshments"
+      ],
+      "ecoFriendlyFeatures": [
+        "Minimal impact camping",
+        "Local community support",
+        "Solar-powered lighting"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Pack light but include warm clothing",
+        "Carry high-SPF sunscreen",
+        "Follow guide's instructions strictly"
+      ]
+    },
+    {
+      "adventureTitle": "Mountain Biking Adventure",
+      "image": "https://i.ibb.co.com/FW1PTzP/joshua-sortino-CTVGEm6-V8q-I-unsplash.jpg",
+      "id": "A104",
+      "categoryName": "Biking",
+      "shortDescription": "Ride through scenic mountain trails for an adrenaline rush.",
+      "adventureCost": 120,
+      "bookingAvailability": true,
+      "location": "Rocky Mountains, Canada",
+      "duration": "2 days, 1 night",
+      "adventureLevel": "Intermediate",
+      "includedItems": [
+        "Mountain bike rental",
+        "Safety gear",
+        "Trail map"
+      ],
+      "ecoFriendlyFeatures": [
+        "Reusable water pouches provided",
+        "Trails maintained sustainably"
+      ],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+        "Wear proper biking gear",
+        "Stay hydrated",
+        "Follow trail rules"
+      ]
+    },
+    {
+      "adventureTitle": "Wildlife Safari",
+      "image": "https://i.ibb.co.com/72WRCTt/urban-vintage-78-A265w-Pi-O4-unsplash.jpg",
+      "id": "A105",
+      "categoryName": "Safari",
+      "shortDescription": "Experience close encounters with exotic wildlife in their natural habitat.",
+      "adventureCost": 250,
+      "bookingAvailability": true,
+      "location": "Serengeti, Tanzania",
+      "duration": "5 days, 4 nights",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Safari jeep",
+        "Binoculars",
+        "Guide"
+      ],
+      "ecoFriendlyFeatures": [
+        "Electric safari vehicles",
+        "Support for local conservation efforts"
+      ],
+      "maxGroupSize": 6,
+      "specialInstructions": [
+        "Do not feed the animals",
+        "Wear neutral-colored clothing",
+        "Carry a camera with a zoom lens"
+      ]
+    },
+    {
+      "adventureTitle": "Glacier Climbing Expedition",
+      "image": "https://i.ibb.co.com/B4f2R6t/jackman-chiu-36-Vbwo1-Oi-ZU-unsplash.jpg",
+      "id": "A106",
+      "categoryName": "Climbing",
+      "shortDescription": "Challenge yourself on a guided climb of majestic glaciers.",
+      "adventureCost": 400,
+      "bookingAvailability": true,
+      "location": "Iceland",
+      "duration": "3 days, 2 nights",
+      "adventureLevel": "Expert",
+      "includedItems": [
+        "Climbing gear",
+        "Professional guide",
+        "Safety briefing"
+      ],
+      "ecoFriendlyFeatures": [
+        "Minimal-impact climbing routes",
+        "Eco-friendly accommodations"
+      ],
+      "maxGroupSize": 5,
+      "specialInstructions": [
+        "Bring warm, waterproof clothing",
+        "Ensure you are physically fit",
+        "Follow safety guidelines strictly"
+      ]
+    },
+    {
+      "adventureTitle": "Kayaking Through Mangroves",
+      "image": "https://i.ibb.co.com/42Gqckp/joshua-earle-9idq-IGr-Lu-TE-unsplash.jpg",
+      "id": "A107",
+      "categoryName": "Kayaking",
+      "shortDescription": "Paddle through serene mangrove forests teeming with wildlife.",
+      "adventureCost": 90,
+      "bookingAvailability": true,
+      "location": "Kerala, India",
+      "duration": "1 day",
+      "adventureLevel": "Beginner",
+      "includedItems": [
+        "Kayak and paddle",
+        "Life jacket",
+        "Snack pack"
+      ],
+      "ecoFriendlyFeatures": [
+        "No motorized boats allowed",
+        "Reforestation initiatives"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+        "Wear lightweight clothing",
+        "Bring a hat and sunscreen",
+        "Respect local flora and fauna"
+      ]
+    },
+    {
+      "adventureTitle": "Volcano Hiking",
+      "image": "https://i.ibb.co.com/zhG086c/carl-cerstrand-nygh-APu-JQC8-unsplash.jpg",
+      "id": "A108",
+      "categoryName": "Hiking",
+      "shortDescription": "Hike up an active volcano and marvel at the stunning vistas.",
+      "adventureCost": 180,
+      "bookingAvailability": true,
+      "location": "Mount Batur, Indonesia",
+      "duration": "1 day",
+      "adventureLevel": "Advanced",
+      "includedItems": [
+        "Guided hike",
+        "Breakfast at the summit",
+        "Trekking poles"
+      ],
+      "ecoFriendlyFeatures": [
+        "Reusable snack bags",
+        "Support for local guides"
+      ],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+        "Start early to catch the sunrise",
+        "Carry a flashlight",
+        "Wear sturdy hiking boots"
+      ]
+    },
+    {
+      "adventureTitle": "Jungle Survival Training",
+      "image": "https://i.ibb.co.com/smP39nK/giammarco-boscaro-Uk-Op-Mcslm-X8-unsplash.jpg",
+      "id": "A109",
+      "categoryName": "Survival Training",
+      "shortDescription": "Learn essential survival skills in a dense jungle setting.",
+      "adventureCost": 300,
+      "bookingAvailability": false,
+      "location": "Amazon Rainforest, Brazil",
+      "duration": "7 days, 6 nights",
+      "adventureLevel": "Expert",
+      "includedItems": [
+        "Survival kit",
+        "Expert survivalist guide",
+        "Emergency communication device"
+      ],
+      "ecoFriendlyFeatures": [
+        "Teachings on sustainable survival",
+        "Minimal ecological impact practices"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+        "Bring mosquito repellent",
+        "Be prepared for unpredictable weather",
+        "Follow guide's instructions strictly"
+      ]
+    }
+  ]
+  
